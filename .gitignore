@@ -1,0 +1,51 @@
+# ========== BACKEND (Java Spring Boot) ==========
+/Backend-Java-SpringBoot/target/
+/Backend-Java-SpringBoot/.classpath
+/Backend-Java-SpringBoot/.project
+/Backend-Java-SpringBoot/.settings/
+/Backend-Java-SpringBoot/.vscode/
+/Backend-Java-SpringBoot/build/
+/Backend-Java-SpringBoot/HELP.md
+
+# Maven Wrapper
+/Backend-Java-SpringBoot/.mvn/wrapper/maven-wrapper.jar
+
+# STS & IDE-related files
+/Backend-Java-SpringBoot/.apt_generated
+/Backend-Java-SpringBoot/.factorypath
+/Backend-Java-SpringBoot/.springBeans
+/Backend-Java-SpringBoot/.sts4-cache
+/Backend-Java-SpringBoot/.idea
+/Backend-Java-SpringBoot/*.iws
+/Backend-Java-SpringBoot/*.iml
+/Backend-Java-SpringBoot/*.ipr
+
+# NetBeans
+/Backend-Java-SpringBoot/nbproject/private/
+/Backend-Java-SpringBoot/nbbuild/
+/Backend-Java-SpringBoot/dist/
+/Backend-Java-SpringBoot/nbdist/
+/Backend-Java-SpringBoot/.nb-gradle/
+
+# Sensitive configs
+/Backend-Java-SpringBoot/.env
+
+# ========== FRONTEND (React) ==========
+/Frontend-React/node_modules/
+/Frontend-React/build/
+/Frontend-React/.pnp
+/Frontend-React/.pnp.js
+/Frontend-React/.DS_Store
+/Frontend-React/.env
+/Frontend-React/.env.local
+/Frontend-React/.env.development.local
+/Frontend-React/.env.test.local
+/Frontend-React/.env.production.local
+/Frontend-React/npm-debug.log*
+/Frontend-React/yarn-debug.log*
+/Frontend-React/yarn-error.log*
+/Frontend-React/coverage
+
+# ========== GENERAL ==========
+.DS_Store
+.env
